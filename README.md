@@ -1,9 +1,12 @@
 # BowdoinTimeLapse
 
-Results can be seen at twitter.com/BowdoinLapse
+Results can be seen at https://twitter.com/BowdoinLapse
 
 
-Downloads stills from a live stream camera on Bowdoin's campus (http://webcam5.bowdoin.edu:4200/#view).
+One script downloads stills from a live video stream on Bowdoin's campus
 
 
-Another script takes all photos from the current day, creates a video timelapse from the images, and posts the video to twitter (https://twitter.com/BowdoinLapse).
+Another script takes all photos from the current day, creates a video timelapse from the images, and posts the video to twitter
+
+
+Each script is scheduled as a cron job and run on a raspberry pi
